@@ -15,6 +15,11 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
+#Program to find the distance between two points
+
+Developed By: YASHWINI M
+Register Number: 23004946
+
 import numpy as np
 A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
